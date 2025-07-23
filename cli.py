@@ -3,7 +3,6 @@ import base64
 # from email.message import EmailMessage
 from azure.communication.email import EmailClient
 
-#!/usr/bin/env python3
 
 # SENDER_EMAIL = "daniellee7618@gmail.com"
 # APP_PASSWORD = "dasiibnkdopwfppn"  # Store securely in env vars later
